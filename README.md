@@ -1,14 +1,13 @@
 # sevives-website
 
-Fondation publique du site web de l'agence **SevivɘƧ**.
+Public foundation for the **SevivɘƧ** agency website.
 
-> 🚧 **Dépôt en cours d'amorçage.** Aucun code applicatif pour l'instant — la
-> structure et la stack seront posées ultérieurement, en repartant d'une base
-> propre.
+> 🚧 **Repo bootstrapping.** No application code yet — the structure and stack
+> will be laid down later, starting from a clean base.
 
-Ce dépôt est volontairement **public et vierge** : il ne contient **aucune
-partie du site de production**, qui vit dans un dépôt privé séparé.
+This repo is intentionally **public and empty**: it holds **no part of the
+production site**, which lives in a separate private repo.
 
 ---
 
-*SevivɘƧ Agency — Bruxelles*
+*SevivɘƧ Agency — Alicante*
