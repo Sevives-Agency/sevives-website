@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* warm off-white paper + deep sage-charcoal ink (space-separated rgb for <alpha-value>) */
+  --paper: 250 249 246;
+  --ink: 41 46 40;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-feature-settings: 'cv11', 'ss01';
+  }
+
+  ::selection {
+    background-color: #f4c4b1; /* accent-200 */
+    color: #2b382a; /* sage-900 */
+  }
+}

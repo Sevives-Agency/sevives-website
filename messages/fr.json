@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Starter",
+    "description": "Modèle de départ multilingue avec Next.js. Le squelette, rien d’autre."
+  },
+  "nav": {
+    "home": "Accueil",
+    "section": "Section",
+    "docs": "Documentation"
+  },
+  "home": {
+    "eyebrow": "Modèle de départ",
+    "title": "Un squelette propre, prêt à bâtir",
+    "subtitle": "Structure, thème et internationalisation déjà câblés. Aucun contenu réel : seulement l’ossature, soignée jusqu’au moindre détail.",
+    "ctaPrimary": "Commencer",
+    "ctaSecondary": "Voir la structure",
+    "cards": {
+      "0": { "title": "Titre de section", "body": "Texte de remplacement. À remplacer par votre propre contenu lorsque vous construirez les vraies pages." },
+      "1": { "title": "Titre de section", "body": "Bloc générique pour montrer la structure. Ne contient rien de propriétaire." },
+      "2": { "title": "Titre de section", "body": "Encore un emplacement réservé. L’ossature est prête ; le contenu vous appartient." }
+    }
+  },
+  "footer": {
+    "note": "Modèle de départ. Le squelette, pas le contenu."
+  }
+}
