@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Starter",
+    "description": "A multilingual Next.js starter. The skeleton, nothing more."
+  },
+  "nav": {
+    "home": "Home",
+    "section": "Section",
+    "docs": "Docs"
+  },
+  "home": {
+    "eyebrow": "Starter template",
+    "title": "A clean skeleton, ready to build on",
+    "subtitle": "Structure, theme and internationalization already wired. No real content — just the frame, cared for down to the detail.",
+    "ctaPrimary": "Get started",
+    "ctaSecondary": "See the structure",
+    "cards": {
+      "0": { "title": "Section title", "body": "Placeholder copy. Swap it for your own content when you build the real pages." },
+      "1": { "title": "Section title", "body": "A generic block to show the structure. Contains nothing proprietary." },
+      "2": { "title": "Section title", "body": "Another placeholder. The frame is ready; the content is yours." }
+    }
+  },
+  "footer": {
+    "note": "Starter template. The skeleton, not the content."
+  }
+}

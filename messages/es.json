@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Starter",
+    "description": "Plantilla de inicio multilingüe con Next.js. Solo el esqueleto."
+  },
+  "nav": {
+    "home": "Inicio",
+    "section": "Sección",
+    "docs": "Documentación"
+  },
+  "home": {
+    "eyebrow": "Plantilla de inicio",
+    "title": "Un esqueleto limpio, listo para construir",
+    "subtitle": "Estructura, tema e internacionalización ya cableados. Sin contenido real: solo el armazón, cuidado hasta el último detalle.",
+    "ctaPrimary": "Empezar",
+    "ctaSecondary": "Ver la estructura",
+    "cards": {
+      "0": { "title": "Título de sección", "body": "Texto de marcador de posición. Reemplázalo por tu propio contenido cuando construyas las páginas reales." },
+      "1": { "title": "Título de sección", "body": "Bloque genérico para mostrar la estructura. No contiene nada propietario." },
+      "2": { "title": "Título de sección", "body": "Otro marcador de posición. El armazón está listo; el contenido es tuyo." }
+    }
+  },
+  "footer": {
+    "note": "Plantilla de inicio. El esqueleto, no el contenido."
+  }
+}
