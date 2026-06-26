@@ -1,26 +1,107 @@
 {
   "meta": {
-    "title": "Starter",
-    "description": "Modèle de départ multilingue avec Next.js. Le squelette, rien d’autre."
+    "title": "Sevives",
+    "description": "Sevives, studio IA à Alicante. On transforme l'IA en systèmes que vos équipes utilisent vraiment. Chantier en cours — voici la version publique à ~60 %."
+  },
+  "banner": {
+    "wip": "Chantier en cours — version publique à ~60 %. Les 40 % les plus durs (le polish signature) sont enseignés sur la chaîne."
   },
   "nav": {
     "home": "Accueil",
-    "section": "Section",
-    "docs": "Documentation"
+    "blueprints": "Blueprints",
+    "contact": "Contact"
   },
   "home": {
-    "eyebrow": "Modèle de départ",
-    "title": "Un squelette propre, prêt à bâtir",
-    "subtitle": "Structure, thème et internationalisation déjà câblés. Aucun contenu réel : seulement l’ossature, soignée jusqu’au moindre détail.",
-    "ctaPrimary": "Commencer",
-    "ctaSecondary": "Voir la structure",
-    "cards": {
-      "0": { "title": "Titre de section", "body": "Texte de remplacement. À remplacer par votre propre contenu lorsque vous construirez les vraies pages." },
-      "1": { "title": "Titre de section", "body": "Bloc générique pour montrer la structure. Ne contient rien de propriétaire." },
-      "2": { "title": "Titre de section", "body": "Encore un emplacement réservé. L’ossature est prête ; le contenu vous appartient." }
+    "eyebrow": "Studio IA · Alicante",
+    "title": "L'IA que vos équipes utilisent vraiment",
+    "subtitle": "On ne vend pas des démos. On construit les systèmes, on les installe sur vos propres comptes, et on vous remet les clés. Ce site est la version publique à ~60 % de notre façon de faire.",
+    "ctaPrimary": "Voir les Blueprints",
+    "ctaSecondary": "Démarrer un échange",
+    "carousel": {
+      "eyebrow": "Ce qu'on apporte",
+      "title": "Six savoir-faire, une image qui tourne",
+      "hint": "Glissez pour faire tourner — un pattern 3D générique et réutilisable",
+      "items": {
+        "0": "Stratégie",
+        "1": "Automatisation",
+        "2": "Formation",
+        "3": "Contenu",
+        "4": "Visuel",
+        "5": "Mesure"
+      }
+    },
+    "blueprints": {
+      "eyebrow": "Trois Blueprints",
+      "title": "Choisissez le système qu'il vous faut",
+      "items": {
+        "mastery": { "title": "Maîtrise IA", "body": "Rendez vos équipes fluides avec l'IA au quotidien — pas de théorie, des réflexes." },
+        "community": { "title": "Community & Campagne IA", "body": "Du contenu et des campagnes qui s'accumulent, portés par un workflow IA qui vous appartient." },
+        "visual": { "title": "Génération Visuelle IA", "body": "Des visuels à votre image, à vitesse de production, générés et finis en interne." }
+      },
+      "cta": "Explorer les Blueprints"
+    },
+    "process": {
+      "eyebrow": "Comment ça marche",
+      "title": "Construit par nous, possédé par vous",
+      "steps": {
+        "0": { "title": "On construit", "body": "Le système est conçu en interne, de bout en bout." },
+        "1": { "title": "On installe", "body": "Déployé sur vos propres comptes — vos données, vos clés." },
+        "2": { "title": "Vous possédez", "body": "Aucun SaaS Sevives, jamais. L'ensemble vous appartient." }
+      }
     }
   },
+  "blueprints": {
+    "meta": { "title": "Blueprints" },
+    "eyebrow": "Trois Blueprints",
+    "title": "Trois systèmes. Choisissez par où commencer.",
+    "subtitle": "Chaque Blueprint est un système complet qu'on construit et installe sur vos comptes. Cette page est un brouillon à ~60 % — le périmètre final se cale avec vous.",
+    "items": {
+      "mastery": {
+        "name": "Maîtrise IA",
+        "tagline": "Rendez vos équipes fluides",
+        "body": "Un programme concret qui transforme l'IA d'une curiosité en réflexe quotidien dans toute l'équipe.",
+        "points": ["Playbooks par métier", "Sessions de travail en direct", "Des habitudes qui restent après notre départ"]
+      },
+      "community": {
+        "name": "Community & Campagne IA",
+        "tagline": "Du contenu qui s'accumule",
+        "body": "Un moteur de contenu et de communauté piloté par l'IA — conçu une fois, opéré par vos équipes.",
+        "points": ["Un workflow qui vous appartient", "Un rythme de publication continu", "Des campagnes branchées sur les résultats"]
+      },
+      "visual": {
+        "name": "Génération Visuelle IA",
+        "tagline": "À votre image, à vitesse",
+        "body": "Générez et finissez vos visuels en interne, à votre image, sans le délai d'agence.",
+        "points": ["Une identité qui reste la vôtre", "Une cadence de production", "Finition en interne"]
+      }
+    },
+    "note": "Le périmètre détaillé et les prix ne sont volontairement pas figés ici — ça fait partie du chantier.",
+    "cta": "Parler de votre projet"
+  },
+  "contact": {
+    "meta": { "title": "Contact" },
+    "eyebrow": "Contact",
+    "title": "Dites-nous ce que vous voulez livrer",
+    "subtitle": "Ce formulaire n'est que de l'UI dans la version publique — il n'est pas relié à un backend. Il sert à voir la structure, pas à envoyer un vrai message.",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom",
+      "email": "E-mail",
+      "emailPlaceholder": "vous@entreprise.com",
+      "message": "Projet",
+      "messagePlaceholder": "Que voulez-vous construire avec l'IA ?",
+      "send": "Envoyer",
+      "wip": "Désactivé dans la version publique — aucun message ne sera envoyé."
+    }
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "Cette page n'existe pas.",
+    "back": "Retour à l'accueil"
+  },
   "footer": {
-    "note": "Modèle de départ. Le squelette, pas le contenu."
+    "tagline": "Studio IA · Alicante. Construit par nous, possédé par vous.",
+    "wip": "Version publique à ~60 %. Le polish signature est enseigné sur la chaîne.",
+    "channel": "Chaîne bientôt disponible"
   }
 }

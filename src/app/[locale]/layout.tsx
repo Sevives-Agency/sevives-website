@@ -48,11 +48,17 @@ export default async function LocaleLayout({
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const tBanner = await getTranslations('banner');
 
   return (
     <html lang={locale} className={`${inter.variable} ${fraunces.variable}`}>
       <body className="flex min-h-dvh flex-col bg-paper text-ink antialiased">
         <NextIntlClientProvider messages={messages}>
+          <div className="border-b border-taupe-200/60 bg-sage-50/70">
+            <p className="mx-auto max-w-content px-6 py-2 text-center font-mono text-[11px] leading-relaxed tracking-wide text-sage-800 sm:px-8">
+              🚧 {tBanner('wip')}
+            </p>
+          </div>
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />

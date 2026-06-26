@@ -1,26 +1,107 @@
 {
   "meta": {
-    "title": "Starter",
-    "description": "Plantilla de inicio multilingüe con Next.js. Solo el esqueleto."
+    "title": "Sevives",
+    "description": "Sevives, estudio de IA en Alicante. Convertimos la IA en sistemas que tu equipo usa de verdad. En construcción — esta es la versión pública al ~60 %."
+  },
+  "banner": {
+    "wip": "En construcción — versión pública al ~60 %. El 40 % más difícil (el acabado de autor) se enseña en el canal."
   },
   "nav": {
     "home": "Inicio",
-    "section": "Sección",
-    "docs": "Documentación"
+    "blueprints": "Blueprints",
+    "contact": "Contacto"
   },
   "home": {
-    "eyebrow": "Plantilla de inicio",
-    "title": "Un esqueleto limpio, listo para construir",
-    "subtitle": "Estructura, tema e internacionalización ya cableados. Sin contenido real: solo el armazón, cuidado hasta el último detalle.",
-    "ctaPrimary": "Empezar",
-    "ctaSecondary": "Ver la estructura",
-    "cards": {
-      "0": { "title": "Título de sección", "body": "Texto de marcador de posición. Reemplázalo por tu propio contenido cuando construyas las páginas reales." },
-      "1": { "title": "Título de sección", "body": "Bloque genérico para mostrar la estructura. No contiene nada propietario." },
-      "2": { "title": "Título de sección", "body": "Otro marcador de posición. El armazón está listo; el contenido es tuyo." }
+    "eyebrow": "Estudio de IA · Alicante",
+    "title": "La IA que tu equipo usa de verdad",
+    "subtitle": "No vendemos demos. Construimos los sistemas, los instalamos en tus propias cuentas y te entregamos las llaves. Este sitio es la versión pública al ~60 % de cómo lo hacemos.",
+    "ctaPrimary": "Ver los Blueprints",
+    "ctaSecondary": "Iniciar una conversación",
+    "carousel": {
+      "eyebrow": "Lo que aportamos",
+      "title": "Seis capacidades, una imagen en movimiento",
+      "hint": "Arrastra para girar — un patrón 3D genérico y reutilizable",
+      "items": {
+        "0": "Estrategia",
+        "1": "Automatización",
+        "2": "Formación",
+        "3": "Contenido",
+        "4": "Visual",
+        "5": "Medición"
+      }
+    },
+    "blueprints": {
+      "eyebrow": "Tres Blueprints",
+      "title": "Elige el sistema que necesitas ahora",
+      "items": {
+        "mastery": { "title": "Maîtrise IA", "body": "Haz que tu equipo domine la IA en el día a día — nada de teoría, hábitos que funcionan." },
+        "community": { "title": "Community & Campagne IA", "body": "Contenido y campañas que se acumulan, impulsados por un flujo de IA que es tuyo." },
+        "visual": { "title": "Génération Visuelle IA", "body": "Visuales fieles a tu marca, a velocidad de producción, generados y terminados en casa." }
+      },
+      "cta": "Explorar los Blueprints"
+    },
+    "process": {
+      "eyebrow": "Cómo funciona",
+      "title": "Construido por nosotros, en tu propiedad",
+      "steps": {
+        "0": { "title": "Construimos", "body": "El sistema se diseña en casa, de principio a fin." },
+        "1": { "title": "Instalamos", "body": "Desplegado en tus propias cuentas — tus datos, tus llaves." },
+        "2": { "title": "Eres dueño", "body": "Ningún SaaS de Sevives, nunca. Todo es tuyo." }
+      }
     }
   },
+  "blueprints": {
+    "meta": { "title": "Blueprints" },
+    "eyebrow": "Tres Blueprints",
+    "title": "Tres sistemas. Elige por dónde empezar.",
+    "subtitle": "Cada Blueprint es un sistema completo que construimos e instalamos en tus cuentas. Esta página es un borrador al ~60 % — el alcance final se ajusta contigo.",
+    "items": {
+      "mastery": {
+        "name": "Maîtrise IA",
+        "tagline": "Haz que tu equipo domine",
+        "body": "Un programa práctico que convierte la IA de una curiosidad en un reflejo diario en todo el equipo.",
+        "points": ["Playbooks por rol", "Sesiones de trabajo en directo", "Hábitos que permanecen cuando nos vamos"]
+      },
+      "community": {
+        "name": "Community & Campagne IA",
+        "tagline": "Contenido que se acumula",
+        "body": "Un motor de contenido y comunidad impulsado por IA — diseñado una vez, operado por tu equipo.",
+        "points": ["Un flujo que es tuyo", "Un ritmo de publicación continuo", "Campañas conectadas a los resultados"]
+      },
+      "visual": {
+        "name": "Génération Visuelle IA",
+        "tagline": "Fiel a tu marca, rápido",
+        "body": "Genera y termina tus visuales en casa, fieles a tu marca, sin la espera de una agencia.",
+        "points": ["Una identidad que sigue siendo tuya", "Ritmo de producción", "Acabado en casa"]
+      }
+    },
+    "note": "El alcance detallado y los precios no están fijados aquí a propósito — eso es parte de la obra.",
+    "cta": "Hablar de tu proyecto"
+  },
+  "contact": {
+    "meta": { "title": "Contacto" },
+    "eyebrow": "Contacto",
+    "title": "Dinos qué quieres construir",
+    "subtitle": "Este formulario es solo UI en la versión pública — no está conectado a un backend. Sirve para ver la estructura, no para enviar un mensaje real.",
+    "form": {
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo",
+      "emailPlaceholder": "tu@empresa.com",
+      "message": "Proyecto",
+      "messagePlaceholder": "¿Qué quieres construir con IA?",
+      "send": "Enviar",
+      "wip": "Desactivado en la versión pública — no se enviará ningún mensaje."
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "Esta página no existe.",
+    "back": "Volver al inicio"
+  },
   "footer": {
-    "note": "Plantilla de inicio. El esqueleto, no el contenido."
+    "tagline": "Estudio de IA · Alicante. Construido por nosotros, en tu propiedad.",
+    "wip": "Versión pública al ~60 %. El acabado de autor se enseña en el canal.",
+    "channel": "Canal muy pronto"
   }
 }

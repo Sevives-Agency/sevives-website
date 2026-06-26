@@ -8,8 +8,8 @@ export default function Header() {
 
   const links = [
     {key: 'home', href: '/'},
-    {key: 'section', href: '/'},
-    {key: 'docs', href: '/'}
+    {key: 'blueprints', href: '/blueprints'},
+    {key: 'contact', href: '/contact'}
   ] as const;
 
   return (
@@ -19,7 +19,7 @@ export default function Header() {
           <span className="grid h-7 w-7 place-items-center rounded-lg bg-sage-600">
             <span className="block h-2.5 w-2.5 rounded-sm bg-accent-400" />
           </span>
-          <span className="font-display text-lg tracking-tight">Starter</span>
+          <span className="font-display text-lg tracking-tight">Sevives</span>
         </Link>
 
         <nav className="hidden items-center gap-7 sm:flex">

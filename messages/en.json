@@ -1,26 +1,107 @@
 {
   "meta": {
-    "title": "Starter",
-    "description": "A multilingual Next.js starter. The skeleton, nothing more."
+    "title": "Sevives",
+    "description": "Sevives is an AI studio in Alicante. We turn AI into systems your team actually ships with. Work in progress — this is the public ~60% build."
+  },
+  "banner": {
+    "wip": "Work in progress — public ~60% build. The hardest 40% (the signature polish) is taught on the channel."
   },
   "nav": {
     "home": "Home",
-    "section": "Section",
-    "docs": "Docs"
+    "blueprints": "Blueprints",
+    "contact": "Contact"
   },
   "home": {
-    "eyebrow": "Starter template",
-    "title": "A clean skeleton, ready to build on",
-    "subtitle": "Structure, theme and internationalization already wired. No real content — just the frame, cared for down to the detail.",
-    "ctaPrimary": "Get started",
-    "ctaSecondary": "See the structure",
-    "cards": {
-      "0": { "title": "Section title", "body": "Placeholder copy. Swap it for your own content when you build the real pages." },
-      "1": { "title": "Section title", "body": "A generic block to show the structure. Contains nothing proprietary." },
-      "2": { "title": "Section title", "body": "Another placeholder. The frame is ready; the content is yours." }
+    "eyebrow": "AI studio · Alicante",
+    "title": "AI your team actually ships with",
+    "subtitle": "We don't sell demos. We build the systems, install them on your own accounts, and hand you the keys. This site is the public ~60% build of how we do it.",
+    "ctaPrimary": "See the Blueprints",
+    "ctaSecondary": "Start a conversation",
+    "carousel": {
+      "eyebrow": "What we bring",
+      "title": "Six capabilities, one moving picture",
+      "hint": "Drag to spin — a generic, reusable 3D pattern",
+      "items": {
+        "0": "Strategy",
+        "1": "Automation",
+        "2": "Training",
+        "3": "Content",
+        "4": "Visuals",
+        "5": "Measurement"
+      }
+    },
+    "blueprints": {
+      "eyebrow": "Three Blueprints",
+      "title": "Pick the system you need next",
+      "items": {
+        "mastery": { "title": "Maîtrise IA", "body": "Get your team fluent in AI for daily work — not theory, working habits." },
+        "community": { "title": "Community & Campagne IA", "body": "Content and campaigns that compound, driven by an AI workflow you own." },
+        "visual": { "title": "Génération Visuelle IA", "body": "On-brand visuals at production speed, generated and finished in-house." }
+      },
+      "cta": "Explore the Blueprints"
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "title": "Built by us, owned by you",
+      "steps": {
+        "0": { "title": "We build", "body": "The system is engineered in-house, end to end." },
+        "1": { "title": "We install", "body": "Deployed on your own accounts — your data, your keys." },
+        "2": { "title": "You own", "body": "No Sevives SaaS lock-in, ever. The whole thing is yours." }
+      }
     }
   },
+  "blueprints": {
+    "meta": { "title": "Blueprints" },
+    "eyebrow": "Three Blueprints",
+    "title": "Three systems. Pick where you start.",
+    "subtitle": "Each Blueprint is a complete system we build and install on your accounts. This page is a ~60% draft — the final scope is refined with you.",
+    "items": {
+      "mastery": {
+        "name": "Maîtrise IA",
+        "tagline": "Make your team fluent",
+        "body": "A hands-on program that turns AI from a curiosity into a daily reflex across your team.",
+        "points": ["Role-based playbooks", "Live working sessions", "Habits that stick after we leave"]
+      },
+      "community": {
+        "name": "Community & Campagne IA",
+        "tagline": "Content that compounds",
+        "body": "An AI-driven content and community engine — designed once, run by your team.",
+        "points": ["A workflow you own", "An always-on publishing rhythm", "Campaigns wired to results"]
+      },
+      "visual": {
+        "name": "Génération Visuelle IA",
+        "tagline": "On-brand, at speed",
+        "body": "Generate and finish visuals in-house, on brand, without the agency turnaround.",
+        "points": ["A look that stays yours", "Production-speed output", "Finished in-house"]
+      }
+    },
+    "note": "Detailed scope and pricing are intentionally not final here — that's part of the build.",
+    "cta": "Talk about your project"
+  },
+  "contact": {
+    "meta": { "title": "Contact" },
+    "eyebrow": "Contact",
+    "title": "Tell us what you want to ship",
+    "subtitle": "This form is UI only in the public build — it isn't wired to a backend. Use it to see the structure, not to send a real message.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Project",
+      "messagePlaceholder": "What do you want to build with AI?",
+      "send": "Send",
+      "wip": "Disabled in the public build — no message will be sent."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page doesn't exist.",
+    "back": "Back home"
+  },
   "footer": {
-    "note": "Starter template. The skeleton, not the content."
+    "tagline": "AI studio · Alicante. Built by us, owned by you.",
+    "wip": "Public ~60% build. The signature polish is taught on the channel.",
+    "channel": "Channel coming soon"
   }
 }
