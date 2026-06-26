@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Sevives",
-    "description": "Sevives, studio IA à Bruxelles. On transforme l'IA en systèmes que vos équipes utilisent vraiment. Chantier en cours — voici la version publique à ~60 %."
+    "description": "Sevives, studio IA à Alicante. On transforme l'IA en systèmes que vos équipes utilisent vraiment. Chantier en cours — voici la version publique à ~60 %."
   },
   "banner": {
     "wip": "Chantier en cours — version publique à ~60 %. Les 40 % les plus durs (le polish signature) sont enseignés sur la chaîne."
@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "home": {
-    "eyebrow": "Studio IA · Bruxelles",
+    "eyebrow": "Studio IA · Alicante",
     "title": "L'IA que vos équipes utilisent vraiment",
     "subtitle": "On ne vend pas des démos. On construit les systèmes, on les installe sur vos propres comptes, et on vous remet les clés. Ce site est la version publique à ~60 % de notre façon de faire.",
     "ctaPrimary": "Voir les Blueprints",
@@ -100,7 +100,7 @@
     "back": "Retour à l'accueil"
   },
   "footer": {
-    "tagline": "Studio IA · Bruxelles. Construit par nous, possédé par vous.",
+    "tagline": "Studio IA · Alicante. Construit par nous, possédé par vous.",
     "wip": "Version publique à ~60 %. Le polish signature est enseigné sur la chaîne.",
     "channel": "Chaîne bientôt disponible"
   }

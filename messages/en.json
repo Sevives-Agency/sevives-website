@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Sevives",
-    "description": "Sevives is an AI studio in Brussels. We turn AI into systems your team actually ships with. Work in progress — this is the public ~60% build."
+    "description": "Sevives is an AI studio in Alicante. We turn AI into systems your team actually ships with. Work in progress — this is the public ~60% build."
   },
   "banner": {
     "wip": "Work in progress — public ~60% build. The hardest 40% (the signature polish) is taught on the channel."
@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "home": {
-    "eyebrow": "AI studio · Brussels",
+    "eyebrow": "AI studio · Alicante",
     "title": "AI your team actually ships with",
     "subtitle": "We don't sell demos. We build the systems, install them on your own accounts, and hand you the keys. This site is the public ~60% build of how we do it.",
     "ctaPrimary": "See the Blueprints",
@@ -100,7 +100,7 @@
     "back": "Back home"
   },
   "footer": {
-    "tagline": "AI studio · Brussels. Built by us, owned by you.",
+    "tagline": "AI studio · Alicante. Built by us, owned by you.",
     "wip": "Public ~60% build. The signature polish is taught on the channel.",
     "channel": "Channel coming soon"
   }

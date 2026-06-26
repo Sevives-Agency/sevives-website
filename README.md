@@ -1,7 +1,7 @@
 # sevives-website — work in progress (~60%)
 
 The public, **in-construction** build of the [Sevives](https://github.com/Sevives-Agency)
-website — an AI studio in Brussels. It's deliberately a **~60% build**: enough real
+website — an AI studio in Alicante. It's deliberately a **~60% build**: enough real
 structure, content and patterns to show *how* the site is made, with the hardest
 **~40%** — the signature polish — kept for the teaching channel.
 

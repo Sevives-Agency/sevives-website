@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Sevives",
-    "description": "Sevives, estudio de IA en Bruselas. Convertimos la IA en sistemas que tu equipo usa de verdad. En construcción — esta es la versión pública al ~60 %."
+    "description": "Sevives, estudio de IA en Alicante. Convertimos la IA en sistemas que tu equipo usa de verdad. En construcción — esta es la versión pública al ~60 %."
   },
   "banner": {
     "wip": "En construcción — versión pública al ~60 %. El 40 % más difícil (el acabado de autor) se enseña en el canal."
@@ -12,7 +12,7 @@
     "contact": "Contacto"
   },
   "home": {
-    "eyebrow": "Estudio de IA · Bruselas",
+    "eyebrow": "Estudio de IA · Alicante",
     "title": "La IA que tu equipo usa de verdad",
     "subtitle": "No vendemos demos. Construimos los sistemas, los instalamos en tus propias cuentas y te entregamos las llaves. Este sitio es la versión pública al ~60 % de cómo lo hacemos.",
     "ctaPrimary": "Ver los Blueprints",
@@ -100,7 +100,7 @@
     "back": "Volver al inicio"
   },
   "footer": {
-    "tagline": "Estudio de IA · Bruselas. Construido por nosotros, en tu propiedad.",
+    "tagline": "Estudio de IA · Alicante. Construido por nosotros, en tu propiedad.",
     "wip": "Versión pública al ~60 %. El acabado de autor se enseña en el canal.",
     "channel": "Canal muy pronto"
   }
