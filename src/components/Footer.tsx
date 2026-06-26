@@ -8,14 +8,18 @@ export default function Footer() {
 
   return (
     <footer className="border-t border-taupe-200/60">
-      <Container className="flex flex-col gap-6 py-10 sm:flex-row sm:items-center sm:justify-between">
+      <Container className="flex flex-col gap-6 py-10 sm:flex-row sm:items-start sm:justify-between">
         <div>
-          <p className="font-display text-base">Starter</p>
-          <p className="mt-1 max-w-sm text-sm text-ink/50">{t('note')}</p>
+          <p className="font-display text-base">Sevives</p>
+          <p className="mt-1 max-w-sm text-sm text-ink/50">{t('tagline')}</p>
+          <p className="mt-3 max-w-sm text-xs leading-relaxed text-ink/40">
+            {t('wip')}
+          </p>
         </div>
-        <div className="flex items-center gap-6">
+        <div className="flex flex-col items-start gap-3 sm:items-end">
           <LocaleSwitcher />
-          <p className="text-xs text-ink/40">© {year}</p>
+          <p className="text-xs text-ink/40">{t('channel')}</p>
+          <p className="text-xs text-ink/40">© {year} Sevives</p>
         </div>
       </Container>
     </footer>
