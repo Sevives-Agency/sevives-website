@@ -35,7 +35,7 @@
       "title": "Pick the system you need next",
       "items": {
         "mastery": { "title": "AI Mastery", "body": "Get your team fluent in AI for daily work — not theory, working habits." },
-        "community": { "title": "Network Management & Advertising Campaigns AI", "body": "Content and campaigns that compound, driven by an AI workflow you own." },
+        "community": { "title": "Network Management & Advertising Campaigns", "body": "Content and campaigns that compound, driven by an AI workflow you own." },
         "visual": { "title": "AI Visual Generation", "body": "On-brand visuals at production speed, generated and finished in-house." }
       },
       "cta": "Explore the Blueprints"
@@ -63,7 +63,7 @@
         "points": ["Role-based playbooks", "Live working sessions", "Habits that stick after we leave"]
       },
       "community": {
-        "name": "Network Management & Advertising Campaigns AI",
+        "name": "Network Management & Advertising Campaigns",
         "tagline": "Content that compounds",
         "body": "An AI-driven content and community engine — designed once, run by your team.",
         "points": ["A workflow you own", "An always-on publishing rhythm", "Campaigns wired to results"]
