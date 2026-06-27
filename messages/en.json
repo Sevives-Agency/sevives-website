@@ -34,9 +34,9 @@
       "eyebrow": "Three Blueprints",
       "title": "Pick the system you need next",
       "items": {
-        "mastery": { "title": "Maîtrise IA", "body": "Get your team fluent in AI for daily work — not theory, working habits." },
-        "community": { "title": "Community & Campagne IA", "body": "Content and campaigns that compound, driven by an AI workflow you own." },
-        "visual": { "title": "Génération Visuelle IA", "body": "On-brand visuals at production speed, generated and finished in-house." }
+        "mastery": { "title": "AI Mastery", "body": "Get your team fluent in AI for daily work — not theory, working habits." },
+        "community": { "title": "Network Management & Advertising Campaigns", "body": "Content and campaigns that compound, driven by an AI workflow you own." },
+        "visual": { "title": "AI Visual Generation", "body": "On-brand visuals at production speed, generated and finished in-house." }
       },
       "cta": "Explore the Blueprints"
     },
@@ -57,19 +57,19 @@
     "subtitle": "Each Blueprint is a complete system we build and install on your accounts. This page is a ~60% draft — the final scope is refined with you.",
     "items": {
       "mastery": {
-        "name": "Maîtrise IA",
+        "name": "AI Mastery",
         "tagline": "Make your team fluent",
         "body": "A hands-on program that turns AI from a curiosity into a daily reflex across your team.",
         "points": ["Role-based playbooks", "Live working sessions", "Habits that stick after we leave"]
       },
       "community": {
-        "name": "Community & Campagne IA",
+        "name": "Network Management & Advertising Campaigns",
         "tagline": "Content that compounds",
         "body": "An AI-driven content and community engine — designed once, run by your team.",
         "points": ["A workflow you own", "An always-on publishing rhythm", "Campaigns wired to results"]
       },
       "visual": {
-        "name": "Génération Visuelle IA",
+        "name": "AI Visual Generation",
         "tagline": "On-brand, at speed",
         "body": "Generate and finish visuals in-house, on brand, without the agency turnaround.",
         "points": ["A look that stays yours", "Production-speed output", "Finished in-house"]

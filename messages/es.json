@@ -35,7 +35,7 @@
       "title": "Elige el sistema que necesitas ahora",
       "items": {
         "mastery": { "title": "Maîtrise IA", "body": "Haz que tu equipo domine la IA en el día a día — nada de teoría, hábitos que funcionan." },
-        "community": { "title": "Community & Campagne IA", "body": "Contenido y campañas que se acumulan, impulsados por un flujo de IA que es tuyo." },
+        "community": { "title": "Gestión de Red & Campaña Publicitaria", "body": "Contenido y campañas que se acumulan, impulsados por un flujo de IA que es tuyo." },
         "visual": { "title": "Génération Visuelle IA", "body": "Visuales fieles a tu marca, a velocidad de producción, generados y terminados en casa." }
       },
       "cta": "Explorar los Blueprints"
@@ -63,7 +63,7 @@
         "points": ["Playbooks por rol", "Sesiones de trabajo en directo", "Hábitos que permanecen cuando nos vamos"]
       },
       "community": {
-        "name": "Community & Campagne IA",
+        "name": "Gestión de Red & Campaña Publicitaria",
         "tagline": "Contenido que se acumula",
         "body": "Un motor de contenido y comunidad impulsado por IA — diseñado una vez, operado por tu equipo.",
         "points": ["Un flujo que es tuyo", "Un ritmo de publicación continuo", "Campañas conectadas a los resultados"]
