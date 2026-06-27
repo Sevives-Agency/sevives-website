@@ -35,7 +35,7 @@
       "title": "Choisissez le système qu'il vous faut",
       "items": {
         "mastery": { "title": "Maîtrise IA", "body": "Rendez vos équipes fluides avec l'IA au quotidien — pas de théorie, des réflexes." },
-        "community": { "title": "Community & Campagne IA", "body": "Du contenu et des campagnes qui s'accumulent, portés par un workflow IA qui vous appartient." },
+        "community": { "title": "Gestion de Réseau & Campagne Publicitaire IA", "body": "Du contenu et des campagnes qui s'accumulent, portés par un workflow IA qui vous appartient." },
         "visual": { "title": "Génération Visuelle IA", "body": "Des visuels à votre image, à vitesse de production, générés et finis en interne." }
       },
       "cta": "Explorer les Blueprints"
@@ -63,7 +63,7 @@
         "points": ["Playbooks par métier", "Sessions de travail en direct", "Des habitudes qui restent après notre départ"]
       },
       "community": {
-        "name": "Community & Campagne IA",
+        "name": "Gestion de Réseau & Campagne Publicitaire IA",
         "tagline": "Du contenu qui s'accumule",
         "body": "Un moteur de contenu et de communauté piloté par l'IA — conçu une fois, opéré par vos équipes.",
         "points": ["Un workflow qui vous appartient", "Un rythme de publication continu", "Des campagnes branchées sur les résultats"]
